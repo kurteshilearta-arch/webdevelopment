@@ -1,0 +1,17 @@
+div.gallery{
+    margin: 5px;
+    border: 1px yellow;
+}
+
+
+div.gallery:hover{
+    border: 1px red; 
+} 
+
+
+div.gallery img {
+    width: 100px;
+    height: auto;
+}
+
+
